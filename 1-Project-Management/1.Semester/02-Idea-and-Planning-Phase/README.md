@@ -8,7 +8,7 @@ Dette modul fokuserer på idé- og planlægningsfasen i et projekt. Der blev arb
 
 ![Rover-projektplan](images/rover-tidsplan-semester1.png)
 
-*Figur 1. Projektplan og tidsplan for rover-projektet gennem semesteret.*
+*Figur 1. Projektplan og tidsplan for rover-projektet, der viser semesterets milepæle, arbejdsområder og sammenhængen mellem fagene.*
 
 ## Emner
 
