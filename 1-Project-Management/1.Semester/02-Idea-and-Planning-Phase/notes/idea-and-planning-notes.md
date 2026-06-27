@@ -1,4 +1,4 @@
-# Forelæsningsnoter – Idé- og planlægningsfasen
+# Noter – Idé- og planlægningsfasen
 
 ## Brainstorming
 Brainstorming bruges til at udvikle idéer og finde forskellige løsningsforslag. Formålet er at skabe mange idéer uden at vurdere dem med det samme.
