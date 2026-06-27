@@ -6,7 +6,7 @@ Dette modul fokuserer på idé- og planlægningsfasen i et projekt. Der blev arb
 
 ## Projektplan
 
-![Rover-projektplan](images/rover-projektplan.png)
+![Rover-projektplan](images/rover-tidsplan-semester1.png)
 
 *Figur 1. Projektplan og tidsplan for rover-projektet gennem semesteret.*
 
