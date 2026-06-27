@@ -1,5 +1,27 @@
+# Images
+
+Denne mappe indeholder billeder og screenshots, som dokumenterer modulet **Project Lifecycle and Introduction**.
+
 ## Indhold
 
-- **projektfaser-undervisning.png** – Billede fra undervisningen, der viser de fire grundlæggende projektfaser.
-- **de-fire-projektfaser-overblik.png** – Oversigtsfigur over de fire projektfaser.
-- **de-fire-projektfaser-forklaring.png** – Figur med en nærmere forklaring af de fire projektfaser og deres formål.
+### Projektfaser fra undervisningen
+
+**projektfaser-undervisning.png**
+
+![Projektfaser fra undervisningen](projektfaser-undervisning.png)
+
+---
+
+### Oversigt over de fire projektfaser
+
+**de-fire-projektfaser-overblik.png**
+
+![Oversigt over de fire projektfaser](de-fire-projektfaser-overblik.png)
+
+---
+
+### Forklaring af de fire projektfaser
+
+**de-fire-projektfaser-forklaring.png**
+
+![Forklaring af de fire projektfaser](de-fire-projektfaser-forklaring.png)
