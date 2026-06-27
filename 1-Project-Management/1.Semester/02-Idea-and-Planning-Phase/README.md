@@ -21,11 +21,11 @@ Dette modul fokuserer på idé- og planlægningsfasen i et projekt. Der blev arb
 
 ## Hvad lærte jeg?
 
-- At udvikle idéer gennem brainstorming.
+- At planlægge et projekt fra idé til gennemførelse.
+- At anvende brainstorming til idéudvikling.
 - At udarbejde en kravspecifikation.
-- At planlægge et projekt.
-- At opstille milepæle.
-- At strukturere et projekt fra idé til færdigt produkt.
+- At strukturere et projekt med milepæle og tidsplan.
+- At forstå betydningen af planlægning og samarbejde i projektarbejde.
 
 ## Kompetencer
 
